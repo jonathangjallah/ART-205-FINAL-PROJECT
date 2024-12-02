@@ -22,7 +22,14 @@
     padding: 1rem 0;
     text-align: center;
   }
-  
+.aboutPic{
+    width: content-fit;
+    heigh: content-fit;
+}
+  .aboutPic img{
+      width: 350px;
+      heigh:auto;
+  }
   .nav-links {
     list-style: none;
     display: flex;
